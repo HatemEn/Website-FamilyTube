@@ -1,0 +1,30 @@
+/* for header */
+.blog-nav div a:hover {
+	border-bottom: solid 4px #ccc;
+} 
+
+/* for index page */
+#search_box {
+ background-color: #ccc;
+ width: 150px;
+
+}
+.nav_element {
+	padding: 10px 10px;
+}
+.video_show_way {
+	height: 150px;
+	width: 100%;
+	border-bottom: solid 1px #ccc;
+}
+.video_show_way:hover {
+	height: 150px;
+	width: 100%;
+	background-color: #f1f1f1;
+}
+.video_show_way_2:hover {
+	background-color: #f1f1f1;
+}
+.image_account:hover {
+	border: solid 2px #000;
+}
